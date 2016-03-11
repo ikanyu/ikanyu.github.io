@@ -8,17 +8,17 @@ At my previous workplace, we practise Continuous Integration (CI), a development
 
 I signed up with their service and allows it to access my github.
 
-[Travis Sign Up](/assets/images/travis/signup.png)
+![Travis Sign Up](/assets/images/travis/signup.png)
 
 After that, you will be redirected to your profile and in my case it will look like `https://travis-ci.org/profile/ikanyu`. Click to enable the repository you would like travis ci to run.
 
-[Travis Repo](/assets/images/travis/enable_repo.png)
+![Travis Repo](/assets/images/travis/enable_repo.png)
 
 To go to the repo page in travis, click the cock which is between the trigger and my repo name.
 
 Next, I added in a `.travis.yml` to my codebase. I made 2 mistakes when I was doing this step. It kept on complaining about `missing config` whenever I clicked on `More Options > Requests` to check on any builds.
 
-[Config Error](/assets/images/travis/config_error.png)
+![Config Error](/assets/images/travis/config_error.png)
 
 > Mistake 1: I placed it under `config` file.
 
@@ -30,4 +30,4 @@ Previosly when I worked with cicle ci, the yml file is named as  `circle.yml` so
 
 After pushing my commit once again, I finally could happily see my push building in Travis! 
 
-[Build Success](/assets/images/travis/build_success.png)
+![Build Success](/assets/images/travis/build_success.png)
