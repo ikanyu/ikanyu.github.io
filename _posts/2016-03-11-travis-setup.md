@@ -14,7 +14,7 @@ After that, you will be redirected to your profile and in my case it will look l
 
 ![Travis Repo](/assets/images/travis/enable_repo.png)
 
-To go to the repo page in travis, click the cock which is between the trigger and my repo name.
+To go to the repo page in travis, click the cog which is between the trigger and my repo name.
 
 Next, I added in a `.travis.yml` to my codebase. I made 2 mistakes when I was doing this step. It kept on complaining about `missing config` whenever I clicked on `More Options > Requests` to check on any builds.
 
