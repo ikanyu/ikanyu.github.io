@@ -9,9 +9,7 @@
 title: Life Explorer
 email: wongwy93@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Jotting down my code learning experience and tools I have used. Big :heart: of Nasi Lemak.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://ikanyu.github.io/" # the base hostname & protocol for your site
 twitter_username: wwy93
@@ -19,3 +17,5 @@ github_username:  ikanyu
 
 # Build settings
 markdown: kramdown
+gems:
+  - jemoji
