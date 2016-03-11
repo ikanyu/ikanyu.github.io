@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "Travis CI Initial Setup and Problems Encountered"
-excerpt: "<p></p>"
+excerpt: "<p>It kept on complaining about `missing config` whenever I clicked on `More Options > Requests` to check on any builds.</p>"
 ---
 
-At my previos workplace, we practise Continuous Integration (CI), a development practice which requires developers to integrate code into a shared repository several times a day. The tool that we use constantly is Circle CI. Since I had never integrate any CI tools to my personal projects before, I decided to try out [Travis CI](https://travis-ci.org) that my colleague introduced it to me quite some time ago.
+At my previous workplace, we practise Continuous Integration (CI), a development practice which requires developers to integrate code into a shared repository several times a day. The tool that we use constantly is Circle CI. Since I had never integrate any CI tools to my personal projects before, I decided to try out [Travis CI](https://travis-ci.org) that my colleague introduced it to me quite some time ago.
 
 I signed up with their service and allows it to access my github.
 
