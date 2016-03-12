@@ -9,7 +9,7 @@
 title: Life Explorer
 email: wongwy93@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Jotting down my code learning experience and tools I have used. Big :heart: of Nasi Lemak.
+  Jotting down my code learning experience and tools I have used. Big lover of Nasi Lemak.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://ikanyu.github.io/" # the base hostname & protocol for your site
 twitter_username: wwy93
@@ -17,5 +17,3 @@ github_username:  ikanyu
 
 # Build settings
 markdown: kramdown
-gems:
-  - jemoji
